@@ -1,6 +1,6 @@
 # BlackJack-JS
 
-Created a Blackjack game using Javascript, following the tutorial on Scrimba. 
+Created a Blackjack game using Javascript, following a tutorial on Scrimba. 
 
 Rules of the game:
 -To win the game, the user must get a sum total of 21.
